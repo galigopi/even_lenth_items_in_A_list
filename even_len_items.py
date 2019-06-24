@@ -8,5 +8,5 @@ for item in a:
     else:
         c_odd.append(item)
     index+=1
-print ("even index words",b_even)
-print ("odd index words",c_odd)
+print ("even lenth words",b_even)
+print ("odd lenth words",c_odd)
